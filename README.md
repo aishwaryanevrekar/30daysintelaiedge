@@ -4,3 +4,6 @@ D1 : Completed revision of matplotlib and how it works and how to use in python.
 
 D2: Started with pandas and started with coursera openvivo course. Read blogs about pytorch . Practiced day 4 100daysofcode (17th January)
 
+
+D3 : Completed Lesson 5 of Ai Track . Continued with 100daysofcode day 5 .I am excited that I am coding and working also on scholarships.  Continued reading opencv blogs. Very happy. (18th January)
+
