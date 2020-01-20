@@ -9,3 +9,5 @@ D3 : Completed Lesson 5 of Ai Track . Continued with 100daysofcode day 5 .I am e
 
 D4 : Started with lesson 6 of ai track. Continued studying coding ninjas python and started with lesson 2 of AI-track
 
+D5: Continued with project work .Focusing on review and presentation. Read some blogs related to the track
+
