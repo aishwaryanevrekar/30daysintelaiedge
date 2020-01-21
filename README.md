@@ -7,7 +7,10 @@ D2: Started with pandas and started with coursera openvivo course. Read blogs ab
 
 D3 : Completed Lesson 5 of Ai Track . Continued with 100daysofcode day 5 .I am excited that I am coding and working also on scholarships.  Continued reading opencv blogs. Very happy. (18th January)
 
-D4 : Started with lesson 6 of ai track. Continued studying coding ninjas python and started with lesson 2 of AI-track
+D4 : Started with lesson 6 of ai track. Continued studying coding ninjas python and started with lesson 2 of AI-track(19th)
 
-D5: Continued with project work .Focusing on review and presentation. Read some blogs related to the track
+D5: Continued with project work .Focusing on review and presentation. Read some blogs related to the track(20th)
+
+21st taken break
+
 
