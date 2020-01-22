@@ -13,4 +13,6 @@ D5: Continued with project work .Focusing on review and presentation. Read some 
 
 21st taken break
 
+D6: Contiuned with intel ai lesson 2 and worked on python concepts ( 22nd January)
+
 
