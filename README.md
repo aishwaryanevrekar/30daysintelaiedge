@@ -15,4 +15,6 @@ D5: Continued with project work .Focusing on review and presentation. Read some 
 
 D6: Contiuned with intel ai lesson 2 and worked on python concepts ( 22nd January)
 
+D7: Continued with lesson 2 and read blogs about opencv
+
 
