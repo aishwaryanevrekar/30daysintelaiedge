@@ -18,3 +18,6 @@ D6: Contiuned with intel ai lesson 2 and worked on python concepts ( 22nd Januar
 D7: Continued with lesson 2 and read blogs about opencv
 
 
+
+D1: Started with my course again . (7th feb)
+
